@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AZAMLOGICAL
 - 👀 I’m interested in Business Analytics/Data Analytics
-- 🌱 I’m currently learning MS EXCEL
+- 🌱 I’m currently learning Stats, Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me engmazam786@gmail.com
 
