@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AZAMLOGICAL
+- 👋 Hi, I’m Mohd Azam
 - 👀 I’m interested in Business Analytics/Data Analytics/Data Science/Machine Learning
 - 🌱 I’m currently learning Stats, Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on 
